@@ -1,0 +1,12 @@
+import Navbar from "../Components/Navbar"
+
+const Product = () => {
+  return (
+    <div>
+         <Navbar />
+        <h1>This is the Product Page</h1>
+    </div>
+  )
+}
+
+export default Product
